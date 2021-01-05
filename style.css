@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+h2 p{
+font-family: Playfair Display, serif;
+}
+.logo h2{
+  float: left;
+  letter-spacing: 2px;
+ 
+  text-transform: uppercase;
+}
+.menu {
+  float: right;
+}
+.container {
+  width: 700px;
+  margin: 0 auto;
+  padding-right: 5px;
+}
+.logo h2 {
+  font-size: 25px;
+  font-weight: normal;
+  text-transform: uppercase; 
+}
+.menu ul{
+  padding-top: 18px;
+}
+.menu ul li {
+  list-style: none;
+  display: inline;
+  padding-left: 30px;
+ 
+}
+.menu ul li a {
+  text-decoration: none;
+  text-transform: uppercase;
+   }
+   
+}
+#img{
+ width: 100%;
+ margin: 0 auto;
+}  
+.midle-container {
+  width: 1000px;
+  margin: 0 auto;
+  padding-top:100px ;
+  text-align: center;
+}
+.post-worper{
+  padding-top:100px;
+  overflow: hidden;;
+}
+.post1{
+  float: left;
+  width: 300px;
+}
+.post2{
+  float: right;
+  width: 300px;
+}
+.post3{
+  float: left;
+  width: 300px;
+}
+.post3 img{
+  float: left;
+  width: 350px;
+}
+
+.post4{
+  float: right;
+  width: 350px;
+}
+.post4 img{
+  width: 350px;
+}
+.newslatter{
+  background: #EFEFEF;
+  height: 200px;
+  
+}
+.news-content{
+  width: 300px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+.news-content input{
+  border: none;
+ border-bottom: 2px solid black;
+}
+.news-content i{  
+  margin-left:-23px;
+}
+.post5{
+  float: left;
+  width: 350px;
+}
+.post5 img{
+  width: 350px;
+}
+.post6{
+  float: right;
+  width: 350px;
+ 
+}
+.post6 img{
+  width: 350px;
+}
+.bt{
+  margin: 30px;
+  padding-top: 100px;
+}
+.button{
+  margin: 0 auto;
+  width: 150px;
+  display: grid;
+  place-items: center;
+  padding: 10px;
+  clear: both;
+  margin-top: 30px;
+}
+.button a {
+  text-decoration: none;
+}
+.footer-left{
+  float: left;
+  width: 40%;
+}
+
+.footer{
+  padding-top: 50px;
+  background: #EFEFEF;
+  height: 55px;
+}
+.footer ul li{
+  list-style: none;
+  display: inline;
+  text-transform: capitalize;
+  padding-left: 10px;
+}
+.footer ul li a{
+  text-decoration: none;
+  
+}
+.footer-right{
+  float: right;
+  width: 30%;
+}
